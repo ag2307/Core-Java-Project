@@ -9,7 +9,7 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
 
     a. Open cmd in that folder in which all java files are kept.
     
-    b. type "javac -d . *.java" 
+    b. type "javac -d . *.java" (Space between all four parameters)
     
           (      javac - compiles all java files
                   -d   - compiled files are send into a folder
