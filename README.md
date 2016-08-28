@@ -1,2 +1,2 @@
-# Core-Java-Project
-Just started to work on awt ,swings and Github . Happy to get some valuable suggestions regarding the project. :) 
+# Core-Java-Project (HMS)
+Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC and mysql. Happy to get some valuable suggestions regarding the project. :) 
