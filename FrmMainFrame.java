@@ -569,10 +569,10 @@ public class FrmMainFrame extends JFrame
 		
 		return jtb;
 	}
-	public static void main(String [] args)
-	{
-		new FrmMainFrame("kb");
-	}
+//	public static void main(String [] args)
+//	{
+//		new FrmMainFrame("kb");
+//	}
 }
 class MyDesktopPane extends JDesktopPane
 {
