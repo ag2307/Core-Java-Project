@@ -1,7 +1,9 @@
 # Core-Java-Project (HMS)
 Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC and mysql. Happy to get some valuable suggestions regarding the project. :) 
+**Jar file added.**
+**Driver class added**
 
-1. To run the project you should have a java compiler, java path set in your system, jdbc drivers and mysql.
+1. To run the project you should have a java compiler, java path set in your system, jdbc drivers (driver class) and mysql.
 
 2. Images folder should be in the same folder in which all java files are kept.
 
