@@ -14,8 +14,8 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
     a. Open cmd in that folder in which all java files are kept.
     
     b. type `javac -d . *.java` (Put space between all four parameters)
-
-               	`javac - compiles all java files`
+    
+                `javac - compiles all java files`
                  `-d   - compiled files are send into a folder`
                  `.    - current directory`
                `*.java - compiling all files together.` 
@@ -25,14 +25,16 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
 
 9. To run the project run FrmSplash.java.
 
-10. If you don't want to run the project starting again with splash screen then uncomment the following in 
+10. Original Username="kb" and password="12345678" (If these are to be changed,then do it from database directly as for now.)
+
+11. If you don't want to run the project starting again with splash screen then uncomment the following in 
     
-     FrmMainFrame.java and replace "kb" with your username.
+     FrmMainFrame.java.
 	```             
 
 			public static void main(String [] args)
                 	{
-		                  new FrmMainFrame("kb"); //kb is your username so replace it accordingly
+		                  new FrmMainFrame("kb"); 
 	                }
    	```
    Then start running the project from FrmMainFrame.java.
