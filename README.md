@@ -7,7 +7,7 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
 
 1. To run the project you should have a java compiler, java path set in your system, jdbc drivers (driver class) and mysql.
 
-2. Firstly create an empty database in your mysql with name **hms**. If you want some other name for the database then you have to change name of the database in file **DConnection.java"**.
+2. Firstly create an empty database in your mysql with name **hms**. If you want some other name for the database then you have to change name of the database in file **DConnection.java**.
 
 3. Images folder should be in the same folder in which all java files are kept.
 
