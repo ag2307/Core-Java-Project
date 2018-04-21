@@ -7,9 +7,11 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
 
 1. To run the project you should have a java compiler, java path set in your system, jdbc drivers (driver class) and mysql.
 
-2. Images folder should be in the same folder in which all java files are kept.
+2. Firstly run the hms.sql to create a sample database for your project. For testing purposes.
 
-3. To compile all java files in the same folder.
+3. Images folder should be in the same folder in which all java files are kept.
+
+4. To compile all java files in the same folder.
 
     a. Open cmd in that folder in which all java files are kept.
     
@@ -21,15 +23,15 @@ Just started to work on Hospital Management System (HMS) using awt ,swings, JDBC
                `*.java - compiling all files together.` 
          
         
-8. Done. 
+5. Done. 
 
-9. **To run the project**:
+6. **To run the project**:
 Suppose your directory name is **"hms"** which consists of all `.java` files, so after compilation a new directory inside this hms directory will get formed with same name i.e. "hms" and that will contain all your `.class` files. 
 Now to run the java program, be in the parent "hms" directory and run command **java hms.FrmSplash** and that will run the project from the Splash screen.
 
-10. Original Username="kb" and password="12345678" (If these are to be changed,then do it from database directly as for now.)
+7. Original Username="kb" and password="12345678" (If these are to be changed,then do it from database directly as for now.)
 
-11. If you don't want to run the project starting again with splash screen then uncomment the following in 
+8. If you don't want to run the project starting again with splash screen then uncomment the following in 
     
      FrmMainFrame.java.
 	```             
