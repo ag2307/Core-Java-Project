@@ -31,7 +31,8 @@ Done :beers:
 Suppose your directory name is **hms** which consists of all `.java` files, so after compilation a new directory inside this hms directory will get formed with same name i.e. "hms" and that will contain all your `.class` files. 
 Now to run the java program, be in the parent "hms" directory and run command **java hms.FrmSplash** and that will run the project from the Splash screen.
 
-:point_right: If you don't want to run the project starting again with splash screen then uncomment the following in the file **FrmMainFrame.java**  and in place of **kb** type your login username. (Default Password is set as **12345678**)
+:point_right: If you don't want to run the project starting again with splash screen then uncomment the following in the file **FrmMainFrame.java**  and in place of **kb** type your login username. \
+(If **hms.sql** is used to store database in mySQL, then Username is **kb** and Password is **12345678**)
 
 ```java           
 public static void main(String [] args)
