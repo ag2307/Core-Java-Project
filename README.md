@@ -1,6 +1,8 @@
 # Core-Java-Project (HMS)
 Core Java Project on Hospital Management System (HMS) using awt ,swings, JDBC and mysql. Happy to get some valuable suggestions regarding the project. :smile:
 
+Tested on Windows OS only as of now. But feel free to contact me for any problems on Linux systems. 
+
 **Jar file added.**
 
 **Driver class added**
